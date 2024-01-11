@@ -1,0 +1,39 @@
+{
+    "blockbuster": {
+        "peliculas": {
+            "P01": {
+                "id": "P01",
+                "nombre": "",
+                "duracion": "",
+                "sinopsis": "",
+                "generos": {
+                    "G01": {
+                        "id": "G01",
+                        "nombre": ""
+                    }
+                },
+                "actores": {
+                    "A01": {
+                        "id": "A01",
+                        "nombre": "",
+                        "rol": ""
+                    }
+                },
+                "formato": {
+                    "F01": {
+                        "id": "F01",
+                        "nombre": "",
+                        "NroCopias": "",
+                        "valorPrestamo": ""
+                    },
+                    "F02": {
+                        "id": "F02",
+                        "nombre": "",
+                        "NroCopias": "",
+                        "valorPrestamo": ""
+                    }
+                }
+            }
+        }
+    }
+}
