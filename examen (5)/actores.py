@@ -1,5 +1,5 @@
 import json
-from validacion import *
+from validación import *
 archivo = "actores.json"
 with open(archivo, "r") as json_file:
     actores = json.loads(json_file.read())
