@@ -1,0 +1,47 @@
+{
+    "blockbuster": {
+        "peliculas": {
+            "P01": {
+                "id": "P01",
+                "nombre": "Duro de matar",
+                "duracion": "",
+                "sinopsis": "Es una mujer dura de matar",
+                "generos": {
+                    "G01": {
+                        "id": "G01",
+                        "nombre": "Accion"
+                    },
+                    "G03": {
+                        "id": "G03",
+                        "nombre": "Ficcion"
+                    }
+                },
+                "actores": {
+                    "A01": {
+                        "id": "A01",
+                        "nombre": "Michelle",
+                        "rol": "protagonista"
+                    },
+                    "A02": {
+                        "id": "A02",
+                        "nombre": "Jack Sparrow"
+                    }
+                },
+                "formato": {
+                    "F01": {
+                        "id": "F01",
+                        "nombre": "",
+                        "NroCopias": "",
+                        "valorPrestamo": ""
+                    },
+                    "F02": {
+                        "id": "F02",
+                        "nombre": "",
+                        "NroCopias": "",
+                        "valorPrestamo": ""
+                    }
+                }
+            }
+        }
+    }
+}

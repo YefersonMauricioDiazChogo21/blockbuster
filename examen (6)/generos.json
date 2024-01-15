@@ -1,0 +1,30 @@
+{
+    "G01": {
+        "id": "G01",
+        "nombre": "Accion"
+    },
+    "G02": {
+        "id": "G02",
+        "nombre": "Romance"
+    },
+    "G03": {
+        "id": "G03",
+        "nombre": "Ficcion"
+    },
+    "G04": {
+        "id": "G04",
+        "nombre": "Aventura"
+    },
+    "G05": {
+        "id": "G05",
+        "nombre": "Terror"
+    },
+    "G06": {
+        "id": "G06",
+        "nombre": "Thiller"
+    },
+    "G07": {
+        "id": "G07",
+        "nombre": "Fantasia"
+    }
+}
